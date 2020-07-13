@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiqManga", "MiqManga\MiqManga.csproj", "{19333878-8372-440F-BF20-FD97E0B08153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19333878-8372-440F-BF20-FD97E0B08153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19333878-8372-440F-BF20-FD97E0B08153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19333878-8372-440F-BF20-FD97E0B08153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19333878-8372-440F-BF20-FD97E0B08153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
